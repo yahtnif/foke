@@ -1,6 +1,6 @@
 {
   "name": "foke",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "simple job queue.",
   "author": "Yahtnif <yahtnif@gmail.com>",
   "main": "index.js",
