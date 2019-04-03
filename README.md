@@ -7,7 +7,7 @@
 [![npm](https://badgen.net/npm/v/foke)](https://www.npmjs.com/package/foke)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-> simple job queues.
+> Simple job queues, with dash server.
 
 ## Install
 
@@ -29,7 +29,7 @@ const foke = new Foke({
   maxRuntime: '1h',
   dash: true, // default: false
   dashLogger: false,
-  dashPort: 8641
+  dashPort: 8641 // http://localhost:8641
 })
 
 let i = 0

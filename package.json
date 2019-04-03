@@ -1,7 +1,7 @@
 {
   "name": "foke",
   "version": "0.2.1",
-  "description": "simple job queues.",
+  "description": "Simple job queues, with dash server.",
   "author": "Yahtnif <yahtnif@gmail.com>",
   "main": "index.js",
   "repository": "yahtnif/foke",
@@ -30,7 +30,7 @@
     "index.js",
     "dash.js"
   ],
-  "license": "996ICU",
+  "license": "Anti 996",
   "dependencies": {
     "debug": "^4.1.1",
     "fastify": "^2.0.1",
