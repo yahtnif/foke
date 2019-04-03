@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="300" height="150" src="https://github.com/yahtnif/static/raw/master/logo/foke.svg?sanitize=true" alt="foke">
+		<img width="300" src="https://github.com/yahtnif/static/raw/master/logo/foke.svg?sanitize=true" alt="foke">
 	</div>
 </div>
 
@@ -54,4 +54,4 @@ foke.start()
 
 ## License
 
-[996ICU](./LICENSE)
+[Anti 996](./LICENSE)
