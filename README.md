@@ -1,5 +1,10 @@
-# Foke
+<div align="center">
+	<div>
+		<img width="300" height="150" src="https://github.com/yahtnif/static/raw/master/logo/foke.svg?sanitize=true" alt="foke">
+	</div>
+</div>
 
+[![npm](https://badgen.net/npm/v/foke)](https://www.npmjs.com/package/foke)
 [![996ICU Licence](<https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg>)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 > simple job queues.
